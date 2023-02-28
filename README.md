@@ -1,1 +1,1 @@
-# study_springMvc
+# study_spring
