@@ -1,4 +1,4 @@
-### Spring Basic        
+### 스프링 기본편        
 - [객체 지향 설계와 스프링](#스프링이란) - [링크](https://github.com/rrlqja/study_spring/blob/master/01.%20spring-basic/obejct-oriented-and-spring.md)      
     - 스프링        
     - 객체 지향 프로그래밍      
